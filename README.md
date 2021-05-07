@@ -10,4 +10,4 @@ This web application can be used by restaurant waiters to track the orders place
 **DATABASE**: MySQL
 
 # Contributors
-[@Neeraja-Rajan](https://github.com/Neeraja-Rajan) | [@philona123](https://github.com/philona123) |
+[Neeraja Rajan](https://github.com/Neeraja-Rajan) | [Philona Reetha Sebastian](https://github.com/philona123) |
