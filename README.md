@@ -8,3 +8,6 @@ This web application can be used by restaurant waiters to track the orders place
 **FRONT END**: HTML, CSS, JavaScript, Bootstrap
 **BACK END**: PHP
 **DATABASE**: MySQL
+
+# Contributors
+[@Neeraja-Rajan](https://github.com/Neeraja-Rajan) | [@philona123](https://github.com/philona123) |
